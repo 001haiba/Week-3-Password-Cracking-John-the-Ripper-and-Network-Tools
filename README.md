@@ -10,6 +10,6 @@
 
 ![](Task-Module-1.png)
 ![](Task-2-Result.png)
-![](others-1)
-![](others-2)
+![](others-1.png)
+![](others-2.png)
 
